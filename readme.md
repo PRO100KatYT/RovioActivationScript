@@ -31,6 +31,8 @@ class Handlers
 }
 ```
 
+### You can find a version of this script with instructions for Linux (wine) [here](https://github.com/PRO100KatYT/RovioActivationScript/issues/1) thanks to [j-romchain](https://github.com/j-romchain)
+
 ---
 
 ### How does it work?
