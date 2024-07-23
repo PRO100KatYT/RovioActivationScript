@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Rovio Activation Script</h1>
   
-A Fiddler script that allows you to fully unlock Bad Piggies via the activation window in the main menu of the game on PC.
+A Fiddler script that allows you to fully unlock Bad Piggies 1.3.0+ via the activation window in the main menu of the game on PC.
 
 [The Script](#the-script) •
 [How does it work?](#how-does-it-work) •
@@ -63,7 +63,7 @@ This is where this script comes into play. The script intercepts requests to `cl
 
 - Go to Bad Piggies and input any code into the activation window and confirm it.
 
-- Now your Bad Piggies PC copy should be activated.
+- Your Bad Piggies PC copy should be activated. You can now close Fiddler and play the game!
 ---
 
 ### I have a question!
