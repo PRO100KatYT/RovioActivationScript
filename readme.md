@@ -73,7 +73,7 @@ As an alternative to the Fiddler method, you can use the Rovio Actvation Python 
 
 ### How to use the Python script:
 
-- Download and extract the RovioActivationSkript.py file to any location on your Windows PC from this repository. [(Direct download link)](https://github.com/PRO100KatYT/RovioActivationScript/archive/refs/heads/main.zip)
+- Download and extract the RovioActivationScript.py file to any location on your Windows PC from this repository. [(Direct download link)](https://github.com/PRO100KatYT/RovioActivationScript/archive/refs/heads/main.zip)
 - Make sure you have [Python](https://www.python.org/downloads/) installed (tested on version 3.9 but should work on 3.2 or newer).
 - Close the game if it's open.
 - Run the downloaded script (e.g., by double-clicking it).
