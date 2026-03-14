@@ -60,7 +60,7 @@ import Fiddler;
 class Handlers
 {
     static function OnBeforeRequest(oSession: Session) {
-        if (oSession.fullUrl.Contains("[cloud.rovio.com/drm/consumeKey/](https://cloud.rovio.com/drm/consumeKey/)"))
+        if (oSession.fullUrl.Contains("cloud.rovio.com/drm/consumeKey/"))
         {
             oSession.utilCreateResponseAndBypassServer();
             oSession.responseCode = 200;
