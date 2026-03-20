@@ -92,6 +92,12 @@ Feel free to [open an issue](https://github.com/PRO100KatYT/RovioActivationScrip
 <summary><b>Thanks to all stargazers! Click to expand the Star History Chart.</b></summary>
 <br>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left)](https://www.star-history.com/#PRO100KatYT/RovioActivationScript&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=PRO100KatYT%2FRovioActivationScript&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=PRO100KatYT/RovioActivationScript&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left" />
+ </picture>
+</a>
 
 </details>
