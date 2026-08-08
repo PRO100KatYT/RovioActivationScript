@@ -95,9 +95,9 @@ Feel free to [open an issue](https://github.com/PRO100KatYT/RovioActivationScrip
 
 <a href="https://www.star-history.com/?repos=PRO100KatYT%2FRovioActivationScript&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&theme=dark&legend=top-left&sealed_token=XKVzsCgpPTjtU6F1S3HZ_qDiZvU5Ipj5LUa0IRU4YSmvPgMfgBbEpAoRTRI0ORHYMfJ8lO6FwcmFORcAfhnYqGUW5Ma2zl2dQP_34euhPCc0BSS6OP6vW1rdtAm22TGVsknKPCr8ao0GNw9vk2r0KdOtCXHdlb7gCCZGBLDMzP4nP6w3XDqbKi0mKzXu" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left&sealed_token=XKVzsCgpPTjtU6F1S3HZ_qDiZvU5Ipj5LUa0IRU4YSmvPgMfgBbEpAoRTRI0ORHYMfJ8lO6FwcmFORcAfhnYqGUW5Ma2zl2dQP_34euhPCc0BSS6OP6vW1rdtAm22TGVsknKPCr8ao0GNw9vk2r0KdOtCXHdlb7gCCZGBLDMzP4nP6w3XDqbKi0mKzXu" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left&sealed_token=XKVzsCgpPTjtU6F1S3HZ_qDiZvU5Ipj5LUa0IRU4YSmvPgMfgBbEpAoRTRI0ORHYMfJ8lO6FwcmFORcAfhnYqGUW5Ma2zl2dQP_34euhPCc0BSS6OP6vW1rdtAm22TGVsknKPCr8ao0GNw9vk2r0KdOtCXHdlb7gCCZGBLDMzP4nP6w3XDqbKi0mKzXu" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&theme=dark&legend=top-left&sealed_token=HSBKZC5dKY3ylAO8qhF1xVPWC9mypHmBEUhx5NLf0yYO0acTLhgJ3ot_ZrbV1abNeTcQvoOHZk-wztTtdCtyZ1a8pIecqi9TuMRAJmdw1o3yxeeubOfUOA" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left&sealed_token=HSBKZC5dKY3ylAO8qhF1xVPWC9mypHmBEUhx5NLf0yYO0acTLhgJ3ot_ZrbV1abNeTcQvoOHZk-wztTtdCtyZ1a8pIecqi9TuMRAJmdw1o3yxeeubOfUOA" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=PRO100KatYT/RovioActivationScript&type=date&legend=top-left&sealed_token=HSBKZC5dKY3ylAO8qhF1xVPWC9mypHmBEUhx5NLf0yYO0acTLhgJ3ot_ZrbV1abNeTcQvoOHZk-wztTtdCtyZ1a8pIecqi9TuMRAJmdw1o3yxeeubOfUOA" />
  </picture>
 </a>
 
