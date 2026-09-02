@@ -42,7 +42,7 @@ This script automatically generates the necessary configuration `Settings.xml` f
 1. Download and extract the `RovioActivationScript.py` file to any location on your Windows PC from this repository. [(Direct download link)](https://github.com/PRO100KatYT/RovioActivationScript/archive/refs/heads/main.zip)
 2. Make sure you have [Python](https://www.python.org/downloads/) installed (tested on version 3.9 but should work on 3.2 or newer). No external modules via pip are required.
 3. Close the game if it's open.
-4. Run the downloaded script using Python.
+4. Run the downloaded script using Python (simply double-click it or run it via terminal).
 5. Once the script is done with no errors, Bad Piggies should be activated!
 
 <br>
