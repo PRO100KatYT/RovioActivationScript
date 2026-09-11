@@ -43,7 +43,7 @@ This script automatically generates the necessary configuration `Settings.xml` f
 2. Make sure you have [Python](https://www.python.org/downloads/) installed (tested on version 3.9 but should work on 3.2 or newer). No external modules via pip are required.
 3. Close the game if it's open.
 4. Run the downloaded script using Python (simply double-click it or run it via terminal).
-5. Once the script is done with no errors, Bad Piggies should be activated!
+5. Once the script is done with no errors, Bad Piggies should be permanently activated!
 
 <br>
 
@@ -74,7 +74,7 @@ class Handlers
 ```
 
 6. Go to Bad Piggies, input any code into the activation window, and confirm it.
-7. Your Bad Piggies PC copy should be activated. You can now close Fiddler and play the game!
+7. Your Bad Piggies PC copy should be permanently activated. You can now close Fiddler and play the game!
 
 *Note: You can find a version of this script with instructions for Linux (Wine) [here](https://github.com/PRO100KatYT/RovioActivationScript/issues/1) thanks to j-romchain.*
 
